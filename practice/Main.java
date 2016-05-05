@@ -1,4 +1,4 @@
-//最长递增子序列A
+//最长递增子序列A   ...
 //Time Limit: 3000/2000 MS (Java/Others) Memory Limit: 65536/65536 K (Java/Others)
 //Problem Description:
 //给定一个长度为N的数组，找出一个最长的单调自增子序列（不一定连续，但是顺序不能乱）。
